@@ -21,11 +21,11 @@ The sequential multiplier uses shifting, conditional add, and internal registers
 
 4. Program the Basys-3 to observe the product on the LEDs
 
-### Inputs:
+#### Inputs:
 
 A = sw[3:0]
 B = sw[7:4]
 
-### Output:
+#### Output:
 
 Product P[7:0] → LEDs
